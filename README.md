@@ -78,8 +78,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
   <p>
     <i>⭐ Always learning, always building</i> <br/>
@@ -87,7 +85,6 @@
     <i>⭐ Star my repositories if you find them useful!</i><br>
     <i>📧 Feel free to reach out for any questions or projects</i>
   </p>
-  📌 More projects available in my repositories below 👇
   <p>
     Made with ❤️ by <b>Ranim</b>
   </p>
@@ -95,4 +92,4 @@
   <p>
     <a href="#top">⬆️ Back to top</a>
   </p>
-</div>
+    📌 More projects available in my repositories below 👇
