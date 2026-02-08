@@ -27,7 +27,7 @@
 # 🚧 Current Projects
 
 - 🚗 Web & Mobile **Carpooling Application**
-- 🌐 Personal **Developer Portfolio**
+- 🌐 Personal **Portfolio**
 
 # <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Tech Stack
 
