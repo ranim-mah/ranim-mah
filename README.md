@@ -59,8 +59,12 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranim-mah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranim-mah&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ranim-mah&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranim-mah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranim-mah&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 # 📫 Connect With Me
