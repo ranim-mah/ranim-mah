@@ -9,10 +9,10 @@
 <p align="center">
   <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/yourusername?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/yourusername?tab=followers">
+  <a href="https://github.com/ranim-mah?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/yourusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/yourusername/">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ff0000&style=for-the-badge"/></a>
+  <a href="https://github.com/ranim-mah/">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ranim-mah&label=Profile%20Views&color=ff0000&style=for-the-badge"/></a>
 </p>
 
 <div align="left">
@@ -22,7 +22,7 @@
 💡 I am a passionate full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with expertise in mobile and web development.<br>
 💻 I'm currently working on exciting projects using React Native and Node.js <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
 🎯 I love building user-friendly applications that solve real-world problems.<br>
-✉️ You can reach me at your.mahmoudiranim599@gmail.com. I'll try to respond as soon as possible!<br>
+✉️ You can reach me at mahmoudiranim599@gmail.com. I'll try to respond as soon as possible!<br>
 
 # <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Tech Stack
 
@@ -64,8 +64,8 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranim-mah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranim-mah&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 # 📫 Connect With Me
