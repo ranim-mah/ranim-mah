@@ -22,7 +22,7 @@
 💡 I am a passionate full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with expertise in mobile and web development.<br>
 💻 I'm currently working on exciting projects using React Native and Node.js <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
 🎯 I love building user-friendly applications that solve real-world problems.<br>
-✉️ You can reach me at your.email@example.com. I'll try to respond as soon as possible!<br>
+✉️ You can reach me at your.mahmoudiranim599@gmail.com. I'll try to respond as soon as possible!<br>
 
 # <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="25"> Tech Stack
 
@@ -57,9 +57,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**CookBook**](https://github.com/yourusername/cookbook) | Full-stack mobile recipe discovery app with authentication, favorites sync, and multi-language support | React Native, Node.js, PostgreSQL |
-| [**Project 2**](https://github.com/yourusername/project2) | Your second project description | Tech stack |
-| [**Project 3**](https://github.com/yourusername/project3) | Your third project description | Tech stack |
+| [**CookBook**](https://github.com/ranim-mah/CookBook) | Full-stack mobile recipe discovery app with authentication and favorites sync | React Native, Node.js, PostgreSQL |
 
 </div>
 
@@ -74,10 +72,10 @@
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudiranim599.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahmoudi-ranim-0a5278275)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranim-mah)
 
 </div>
 
