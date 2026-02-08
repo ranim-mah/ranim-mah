@@ -81,11 +81,22 @@
 
 ---
 
-<p align="center">
-  <i>💼 Open to freelance opportunities and collaborations</i><br>
-  <i>⭐ Don't forget to star my repositories if you find them useful!</i>
-</p>
+---
 
-<p align="center">
-  <a href="#top">⬆️ Back to top</a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  <p>
+    <i>💼 Open to freelance opportunities and collaborations</i><br>
+    <i>⭐ Star my repositories if you find them useful!</i><br>
+    <i>📧 Feel free to reach out for any questions or projects</i>
+  </p>
+  
+  <p>
+    Made with ❤️ by <b>Ranim</b>
+  </p>
+  
+  <p>
+    <a href="#top">⬆️ Back to top</a>
+  </p>
+</div>
