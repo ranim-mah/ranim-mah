@@ -20,7 +20,7 @@
 # <img src="https://user-images.githubusercontent.com/86270481/225368627-ec7fabbe-0141-4a65-b0fc-6a6b33d6c856.gif" alt="about me" width="30"> About Me
 
 💡 I am a passionate full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with expertise in mobile and web development.<br>
-💻 I'm currently working on exciting projects using React Native and Node.js <img src="https://media3.giphy.com/media/kqPMxudiQtES4xaddf/giphy.gif" width="30">.<br>
+💻 I'm currently working on exciting projects using React Native and Node.js.<br>
 🎯 I love building user-friendly applications that solve real-world problems.<br>
 ✉️ You can reach me at mahmoudiranim599@gmail.com. I'll try to respond as soon as possible!<br>
 
